@@ -53,4 +53,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 If you have any questions or feedback, feel free to reach out:
 
 - **Email**: subhajitdolai999@gmail.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **GitHub**: [Subhajit Dolai](https://github.com/SubhajitDolai)

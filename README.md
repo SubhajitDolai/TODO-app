@@ -19,7 +19,7 @@ A simple and intuitive to-do app built with Flutter. This app allows users to cr
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Subhajit Dolai/TODO-app.git
+    git clone https://github.com/SubhajitDolai/TODO-app.git
     cd TODO-app
     ```
 

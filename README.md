@@ -13,9 +13,9 @@ A simple and intuitive to-do app built with Flutter. This app allows users to cr
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="/screenshots/page1.png" width="300" alt="Home Screen" style="margin-right: 10px;" />
-  <img src="/screenshots/page2.png" width="300" alt="Home Screen" style="margin-right: 10px;" />
-  <img src="/screenshots/page3.png" width="300" alt="Home Screen" style="margin-right: 10px;" />
+  <img src="assets/screenshots/page1.png" width="300" alt="Home Screen" style="margin-right: 10px;" />
+  <img src="assets/screenshots/page2.png" width="300" alt="Home Screen" style="margin-right: 10px;" />
+  <img src="assets/screenshots/page3.png" width="300" alt="Home Screen" style="margin-right: 10px;" />
 </div>
 
 ## Dependencies

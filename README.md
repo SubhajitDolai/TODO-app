@@ -10,6 +10,11 @@ A simple and intuitive to-do app built with Flutter. This app allows users to cr
 - **Check/Uncheck Tasks**: Mark tasks as completed or pending with a simple checkbox.
 - **Persistent Storage**: All tasks are stored locally using the Hive database, ensuring your tasks are saved even after closing the app.
 
+
+### Download Links
+
+- **Android APK**: [Download APK](https://github.com/SubhajitDolai/TODO-app/releases/tag/v1.0.0)
+
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
